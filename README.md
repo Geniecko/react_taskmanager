@@ -1,6 +1,6 @@
 # react_taskmanager
 
-Projekt TOODOAPP stworzony podczas nauki REACT.
+Projekt TODO APP stworzony podczas nauki REACT.
 
 Zastosowane techonologie:
 
