@@ -54,7 +54,7 @@ class App extends Component {
   render() {
 
     return (
-      <BrowserRouter>
+      <BrowserRouter basename = {process.env.PUBLIC_URL}>
       <div className = "wrapper">
         <header>
           <h1>TASK MANAGER</h1>
