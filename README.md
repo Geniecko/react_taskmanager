@@ -1,8 +1,6 @@
 # react_taskmanager
 
-Projekt TODO APP stworzony podczas nauki REACT.
+Projekt TODO APP stworzony podczas nauki React. Aplikacja stworzona z widokiem na desktop - brak RWD.
 
-Zastosowane techonologie:
-
-HTML, CSS, JSX, REACT, REACT_ROUTER
+Technologie: HTML, CSS, JSX, React, React-Router
 
